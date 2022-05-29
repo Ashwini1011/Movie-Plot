@@ -14,7 +14,7 @@ This is simple movie plot which is similar to netflix.A fake movie api is used f
 ![App Screenshot](https://github.com/Ashwini1011/Movie-Plot/blob/master/2022-05-30%20(7).png)
 
 
-## Click Here to see zomato clone
+## Click Here
   https://ashwini1011.github.io/Movie-Plot/
 
 ## Author
